@@ -36,7 +36,7 @@ Tools used for command-line utilities:
 	Fontconfig:		false
 
 Additional shapers (the more the merrier):
-	Graphite2:		false
+	Graphite2:		false=>true
 
 Platform shapers (not normally needed):
 	CoreText:		true
